@@ -1,2 +1,2 @@
 # termux-as-a-server-configs
-Arquivos de configuracao de coisas que uso no termux.
+Arquivos de configurações de e scripts que uso no termux.
